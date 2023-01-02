@@ -1,2 +1,1 @@
-# Redux-Checkpoint
-Created with CodeSandbox
+# To Do List App
